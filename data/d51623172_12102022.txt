@@ -1,0 +1,23 @@
+1. Menginformasikan lowongan pekerjaan bahwa sedang membutuhkan tenaga pengajar dengan kriteria 4 orang staff dalam bidang pengajar matematika
+2. Mengumpulkan dan menyeleksi dari surat lamaran dari calon kandidat
+3. Mengisi form pelamar dan mengikuti tes yg telah disediakan oleh perusahaan
+4. Menginterview secara langsung jika hasil dari tes telah dinyatakan lolos
+5. Melakukan pantauan selama 1 bulan untuk mengetahui proses cara mengajar dalam bidang terkait
+6. Melakukan kontrak kerja setelah melalui masa pantauan selama kurang lebih 1 bulan,1. Pengenalan materi yg akan diberikan selama masa training
+2. Memulai masa training sesuai yg ditetapkan oleh pihak perusahaan
+3. Menyeleksi kualifikasi yg memadai kepada karyawan training untuk mengetahui apakah karyawan training mampu mengikuti materi selama masa training yg diberikan
+4. Memberikan soal kepada karyawan training akademik mengenai training yg diikutinya
+5. Hasil soal jawaban yg memenuhi syarat bisa lolos masa training dan mengikuti kontrak kerja,- perekrutan
+- syarat calon perekrutan
+- database calon perekrutan dan peserta lolos perekrutan
+- hari~ tanggal~ bulan karyawan bergabung untuk menghitung mulai awal penggajian
+- penghitungan periode gaji
+- penghitungan periode lembur (jika ada)
+- potongan hari dimana karyawan ijin atau tidak masuk
+- absensi karyawan,1. Syarat calon kandidat/pelamar
+2. Seleksi tes dari perusahaan
+3. Seleksi interview
+4. Penginputan database pelamar
+5. Menentukan plotingan area tempat penempatan karyawan
+6. Pemantauan orientasi training selama kurang lebih 1 bulan
+7. Kontrak kerja bagi karyawan yg lolos training dan penempatan

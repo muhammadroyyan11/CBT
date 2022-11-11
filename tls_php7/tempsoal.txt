@@ -1,0 +1,376 @@
+<div>
+    <p>
+        1. Diketahui sistem persamaan
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg001.png"
+            width="67"
+            height="30"
+        />
+        . Nilai dari
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg002.png"
+            width="25"
+            height="22"
+        />
+        adalah …\
+    </p>
+    <p>
+        A. <sup>3</sup> log4 \
+    </p>
+    <p>
+        B. <sup>3</sup>log<sub> </sub>20 \
+    </p>
+    <p>
+        C. <sup>3</sup>log 5\
+    </p>
+    <p>
+        D. <sup>3</sup>log 25\
+    </p>
+    <p>
+        E. <sup>3</sup> log6\
+    </p>
+    <p>
+        2. Persamaan kuadrat 𝑝𝑥<sup>2</sup> − 𝑞𝑥 + 4 = 0 memiliki akar-akar
+        positif 𝛼 dan 𝛽 dengan
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg003.png"
+            width="6"
+            height="19"
+        />
+        = 𝛽. Jika grafik fungsi (𝑥) = 𝑝𝑥<sup>2</sup> − 𝑞𝑥 + 4 memiliki
+        koordinat titik puncak di absis
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg004.png"
+            width="5"
+            height="21"
+        />
+        , maka nilai dari 𝑝 + 𝑞 = ….\
+    </p>
+    <p>
+        A. 2\
+    </p>
+    <p>
+        B. 3\
+    </p>
+    <p>
+        C. 4\
+    </p>
+    <p>
+        D. 5\
+    </p>
+    <p>
+        E. 6\
+    </p>
+    <p>
+        3. Diketahui fungsi (𝑥) = 𝑥<sup> 3</sup> + 𝑏𝑥<sup>2</sup> + 𝑐𝑥 + 𝑑
+        memotong sumbu 𝑋 di absis −2 dan memotong sumbu 𝑌 diordinat 26 pada
+        [−4, 2]. Jika turunan kedua fungsi (𝑥) bernilai 0 pada 𝑥 = −3, maka
+        nilai maksimum dari fungsi tersebut adalah ….\
+    </p>
+    <p>
+        A. -1\
+    </p>
+    <p>
+        B. 2\
+    </p>
+    <p>
+        C. 50\
+    </p>
+    <p>
+        D. 120\
+    </p>
+    <p>
+        E. 124\
+    </p>
+    <p>
+        4. Nilai dari limit
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg005.png"
+            width="127"
+            height="22"
+        />
+        \
+    </p>
+    <p>
+        A. 3\
+    </p>
+    <p>
+        B. 2\
+    </p>
+    <p>
+        C. 1\
+    </p>
+    <p>
+        D. 0\
+    </p>
+    <p>
+        E. -2\
+    </p>
+    <p>
+        5. Diketahui kubus ABCD.EFGH dengan rusuk 6. Jika titik P pada
+        perpanjangan garis HG sehingga HG=GP, maka jarak titik G ke garis AP
+        adalah … satuan panjang.\
+    </p>
+    <p>
+        A. 2\
+    </p>
+    <p>
+        B. 2√2\
+    </p>
+    <p>
+        C. 2√3\
+    </p>
+    <p>
+        D. 4\
+    </p>
+    <p>
+        E. 4√2\
+    </p>
+    <p>
+        6. Diketahui 𝑃 dan 𝑄 polinomial. Jika 𝑃(𝑥) berturut-turut memberikan
+        sisa −1 dan 5 jika dibagi 𝑥 − 1 dan dibagi 𝑥 + 2 dan 𝑄(𝑥) memberikan
+        sisa 1 dan −2 jika masing-masing dibagi 𝑥 + 2 dan 𝑥 − 1, maka sisa jika
+        𝑃(𝑄(𝑥)) dibagi 𝑥<sup>2</sup> + 𝑥 − 2 adalah ….\
+    </p>
+    <p>
+        A. 2 \
+    </p>
+    <p>
+        B. 2𝑥 + 3 \
+    </p>
+    <p>
+        C. 2𝑥 – 3\
+    </p>
+    <p>
+        D. 3𝑥 – 2\
+    </p>
+    <p>
+        E. 3\
+    </p>
+    <br clear="all"/>
+    <p>
+        7. Misalkan (𝑎) menyatakan luas daerah tertutup yang dibatasi oleh
+        sumbu X dan parabola 𝑦 = 𝑎𝑥<sup>2</sup> − 2𝑥 dengan −3 < 𝑎 < −1.
+        Peluang terpilihnya nilai 𝑎 sedemikian sehingga (𝑎) ≤ 3/4 adalah ….\
+    </p>
+    <p>
+        A. ½\
+    </p>
+    <p>
+        B. 1/12\
+    </p>
+    <p>
+        C. 5/6\
+    </p>
+    <p>
+        D. 11/12\
+    </p>
+    <p>
+        E. 3/24\
+    </p>
+    <p>
+        8. Jika titik (2021, 2020) dirotasikan sejauh 45° dengan titik pusat
+        (0,0) sebanyak 40 kali dilanjutkan dengan rotasi sejauh 60° dengan
+        titik pusat (0,0) sebanyak 60 kali menghasilkan bayangan (𝑥 ′ , 𝑦 ′ ),
+        maka nilai dari 𝑥′ − 𝑦′ = ….\
+    </p>
+    <p>
+        A. −1 + √3 \
+    </p>
+    <p>
+        B. −1 + √2 \
+    </p>
+    <p>
+        C. 0\
+    </p>
+    <p>
+        D. 1\
+    </p>
+    <p>
+        E. 1+√2\
+    </p>
+    <p>
+        9. Diketahui vektor 𝒃 dan 𝒂 + 𝒃 adalah dua buah vektor yang saling
+        tegak lurus dengan |𝒃| = 𝟓 dan |𝒂| = 𝟑. Nilai dari |𝒂 − 𝒃| = ….\
+    </p>
+    <p>
+        A. 2 \
+    </p>
+    <p>
+        B. 2√21 \
+    </p>
+    <p>
+        C. 3√21\
+    </p>
+    <p>
+        D. 4√22\
+    </p>
+    <p>
+        E. 5√22\
+    </p>
+    <p>
+        10. Diketahui cos 7° =
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg006.png"
+            width="42"
+            height="17"
+        />
+        . Nilai dari cos 44° = ….\
+    </p>
+    <p>
+        A.
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg007.png"
+            width="84"
+            height="20"
+        />
+        \
+    </p>
+    <p>
+        B.
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg008.png"
+            width="84"
+            height="20"
+        />
+        \
+    </p>
+    <p>
+        C.
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg009.png"
+            width="84"
+            height="20"
+        />
+        \
+    </p>
+    <p>
+        D.
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg010.png"
+            width="120"
+            height="22"
+        />
+        \
+    </p>
+    <p>
+        E.
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg011.png"
+            width="120"
+            height="22"
+        />
+        \
+    </p>
+    <p>
+        11. Diketahui fungsi 𝑔 merupakan fungsi parabola dengan koefisien dari
+        variable kuadrat adalah 1 dan titik minimumnya berhimpit dengan titik
+        maksimum fungsi (𝑥) = −2𝑥<sup>2</sup> − 8𝑥 − 9. Fungsi 𝑔 akan memotong
+        sumbu Y di ordinat ....\
+    </p>
+    <p>
+        A. 4\
+    </p>
+    <p>
+        B. 3\
+    </p>
+    <p>
+        C. 2\
+    </p>
+    <p>
+        D. -1\
+    </p>
+    <p>
+        E. -2\
+    </p>
+    <p>
+        12. Grafik fungsi (𝑥) = −(5<sup>𝑥</sup> ) memiliki sifat berikut
+        kecuali ....\
+    </p>
+    <p>
+        A. Melalui titik (0,−1) \
+    </p>
+    <p>
+        B. Memiliki domain 𝑥 ∈ 𝑅, −∞ ≤ 𝑥 ≤ ∞ \
+    </p>
+    <p>
+        C. Mempunyai asimtot sumbu 𝑥 \
+    </p>
+    <p>
+        D. Hasil pencerminan fungsi 𝑓(𝑥) = 5<sup>𝑥</sup> terhadap sumbu 𝑦\
+    </p>
+    <p>
+        E. Memotong sumbu y\
+    </p>
+    <p>
+        13. Di dalam kotak terdapat tiga buah bola yang masing-masing berwarna
+        merah, biru, dan hijau. Jika lima siswa bertugas mengambil sebuah bola
+        bergiliran dan mengembalikannya ke kotak, maka banyak kemungkinan warna
+        bola yang terambil adalah ....\
+    </p>
+    <p>
+        A. 10\
+    </p>
+    <p>
+        B. 21\
+    </p>
+    <p>
+        C. 32\
+    </p>
+    <p>
+        D. 56\
+    </p>
+    <p>
+        E. 120\
+    </p>
+    <p>
+        14. Titik (1, 𝑝) dilalui oleh 𝑥<sup>2</sup> + 𝑦<sup>2</sup> − 2𝑦 = 0.
+        Persamaan lingkaran dengan pusat (1, 𝑝) dan menyinggung garis 𝑝𝑥+𝑦=4
+        adalah ….\
+    </p>
+    <p>
+        A. 𝑥<sup>2</sup> + 𝑦<sup>2</sup> − 2𝑥 − 2𝑦 − 2 = 0 \
+    </p>
+    <p>
+        B. 𝑥<sup>2</sup> + 𝑦<sup>2</sup> − 2𝑥 − 2𝑦 − 1 = 0 \
+    </p>
+    <p>
+        C. 𝑥<sup>2</sup> + 𝑦<sup>2</sup> − 2𝑥 − 2𝑦 = 0\
+    </p>
+    <p>
+        D. 𝑥<sup>2</sup> + 𝑦<sup>2</sup> − 2𝑥 + 2𝑦 − 2 = 0 \
+    </p>
+    <p>
+        E. 𝑥<sup>2</sup> + 𝑦<sup>2</sup> − 2𝑥 + 2𝑦 − 1 = 0\
+    </p>
+    <p>
+        15. Diketahui ℎ(𝑥) =
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg012.png"
+            width="28"
+            height="20"
+        />
+        dan 𝑔(𝑥) =
+        <img
+            src="/cbt/assets/kcfinder/upload/images/gg013.png"
+            width="36"
+            height="23"
+        />
+        . Jika nilai (𝑔 ∘ ℎ)(3) = 𝑎 + 1, maka nilai dari 𝑎 = ….\
+    </p>
+    <p>
+        A. 2\
+    </p>
+    <p>
+        B. 3\
+    </p>
+    <p>
+        C. 4\
+    </p>
+    <p>
+        D. 5\
+    </p>
+    <p>
+        E. 6
+    </p>
+</div>

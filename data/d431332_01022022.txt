@@ -1,0 +1,1 @@
+C,B,B,B,B,C,E,E,E,D,D,C,E,D,C,A,B,C,A,D,B,D,C,B,A,B,B,A,A,D,A,C,C,C,B,A,C,C,B,C,B,C,C,E,C,C,D,E,A,E,A,A,C,A,E,B,C,A,D,E,E,C,E,A,D,A,C,C,B,B,B,A,A,A,B,D,C,B,E,B,B,C,C,B,C,C,B,C,D,D,B,C,A,B,C,D,C,E,B,C,C,D,D,C,C,C,C,C,B,D,A,B,B,B,B,B,C,D,D,E,A,E,C,A,B,B,C,B,A,C,D,C,A,D,A,D

@@ -1,0 +1,1 @@
+A,D,B,C,E,C,D,A,A,B,C,E,C,A,B,D,C,B,E,A,A,B,D,D,E,D,C,D,B,D

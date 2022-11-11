@@ -1,0 +1,37 @@
+K,-melakukan penyusunan training need analisis
+-melakukan kegiatan operasional meliputi biaya~jadwal~sistem yang akan digunakan~alat~ dan pendekatan yang akan di gunakan
+-mennyiapkan materi pelatihan untuk meningkatkan skill straf divisi akademik
+-mendata peserta pesrta yang harus bersiap melakukan pelatihan
+-melakukan pelatihan dan menganalisis setiap peserta
+-mengevaluasi jalannya pelatihan,KPI Keuangan
+no        area kinerja utama                   indikator                                                  bobot                       target
+1           pembayaran pelanggan      tingkat ketepatan waktu
+2         pembayaran ke suprier          tingkat akurasi prmbayaran
+3        audit ekternal                             predikat laporan keuangan 
+4         laporan cashflow                    tingkat akurasi laporan cashflow
+
+KPI HRD
+no       area kinerja                         indikator                                                                                bobot                                     target
+1       kecepatan rekruitmen     rata rata untuk pemenuhan karyawan baru
+2      kualitas rekruitmen           skor evaluasi karyawan setelah probation
+3      kualitas pelamar                 jumlah pelamaran yg lolos setiap tes
+4       ,1. Proses Rekruitment.
+     Untuk mendapatkan pelamar yang potensial sesuai kebutuhan maka dapat dilakukan melalui beberapa sumber yaitu; persediaan keahlian internal~ rekomendasi karyawan~ dari perguruan tinggi~ iklan melalui job portal.
+2.prosedur penyusunan man power planing
+-departement yang membutuhkan harus mengisi formulir permohonan karyawan
+-HRD akan memproses form permohonan dengan mohon persetujuan pihak berwenang
+-dengan adanya persetujuan~ maka proses rekruitmen akan dilaksanakan oleh HRD department dengan melibatkan department yang membutuhkan.
+3. prosedur seleksi
+- seleksi administratif = dilakukan untuk mengetahui kelengkapan administratif pelamar serta pengetahuan~keahlian ~ kemampuan yang diperlukan.
+-tes seleksi= digunakan untuk mengetahui persyaratan keahlian~kemampuan~sikap~minat dan kepribadian serta kesehatan fisik dan mental.
+  jenis tes seleksi di sesuaikan dengan jenjang atau posisi yang dilamar.
+-tahapan seleksi
+1. menyelesaikan soal soal tes TKD~TPA atau TIU.
+2. melakukan interview dengan HRD
+3.melakukan psikotes meliputi kepribadian misalnya menggunakan DISC~ PAPIKOSTIK~ tes ketahanan kerja misalnya menggunakan tes KRAEPLIN~ tes kecerdasan umum~ tes pengetahuan. 
+4. melakukan interview dengan user= untuk mengetahui sejauh mana pengetahuan khusus mengenai posisi tertentu
+5.melakukan interview direksi
+6.pemeriksaan fisik dan kesehatan/MCU
+7.mengirimkan job offering kepada kandidat
+8.hiring dan onboarding yang meliputi pengenalan struktur organisasi~ departemen yang terkait posisi kandidat kegiatan administratif kandidat .
+

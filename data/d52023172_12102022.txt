@@ -1,0 +1,46 @@
+1. Membuat poster lowongan untuk posisi pengajar Matematika dengan kriteria (latar belakang S1 Pendidikan Matematika~ Pengalaman dalam mengajar Matematika SAT)
+2. Mendistribusikan lowongan melalui media sosial (whatsapp~ telegram~ instagram~ website loker)
+3. Seleksi lamaran kandidat yang sesuai dengan kriteria yang dibutuhkan perusahaan
+4. Menghubungi kandidat untuk tes tahap I
+5. Tes tahap 1 dilakukan dengan tes online (TPA~ dan tes pengetahuan mengenai posisi yang dilamar)
+6. Tes tahap 2 melakukan interview dengan HRD
+7. Tes tahap 3 melakukan interview dengan User
+8. Tanda tangan kontrak yang telah disepakati mengenai gaji dan peraturan perusahaan
+9. Mengenalkan karyawan baru ke ruang lingkup perusahaan,1. Analysing
+Distribusi User Req Form
+Interview dengan user
+Data Observasi HR
+Analisa Data Kebutuhan Training
+Training List
+2. Designing
+Desain materi training
+3. Developing
+Persiapan pelaksanaan training
+4. Implementating
+Implementasi training
+5. Evaluating
+rekomendasi,DIVISI HRD
+1. Cost HR sesuai dengan budget perusahaan
+2. Target rata2 pelatihan karyawan setiap karyawan
+3. Turn Over Karyawan setiap tahun
+4. Target keterlambatan rata2 karyawan setiap bulan
+5. Zero Accident (Kecelakaan kerja~ temuan disnaker)
+
+Divisi Keuangan
+1. Laporan keuangan yang akurat dan tepat waktu setiap bulan
+2. Ide yang diaplikasikan
+3. Zero complain
+4. Ketepatan waktu pembayaran
+5. 
+
+Hasil KPI
+100% Istimewa
+90 - 99% Melebihi target
+80 - 89% Memenuhi target
+70 - 79% Butuh perbaikan
+<70% Dibawah target
+,1. Alur Proses (Start~ 
+2. Deskripsi
+3. PIC
+4. Dokumen
+

@@ -1,0 +1,20 @@
+1. melakukan analisis jabatan; bagaimana deskripsi pekerjaan yang akan dilakukan serta kualifikasi yang dibutuhkan
+2. menentukan jangka waktu dan tempat untuk dilakukan job posting
+3. melakukan screening dan seleksi dokumen sesuai kebutuhan yang sudah disepakati
+4. menjadwalkan sesi wawancara/psikotes untuk kandidat yang lolos tahap seleksi berkas/dokumen
+5. melakukan sesi wawancara/psikotes dengan kandidat
+6. melakukan tahap seleksi kedua berdasarkan hasil sesi wawancara/psikotes
+7. menjadwalkan sesi wawancara user untuk kandidat yang lolos
+8. melakukan negosiasi/offering pada kandidat yang akan direkrut
+9. melakukan onboarding seperti menjelaskan sedikit banyaknya tentang perusahaan~ termasuk budaya kerja yang biasa dilakukan di perusahaan~ dll,training/pelatihan program mengajar berbasis digital mengingat kebutuhan saat ini yang mengharuskan pelajar maupun pendidik untuk fleksibel dalam kegiatan belajar mengajar,K,1. mengidentifikasi kebutuhan SDM dari divisi perusahaan = bisa bersifat 2 arah; HR yang menanyakan atau user divisi mengajukan untuk membuka kowongan
+2. setiap unit divisi yang membutuhkan SDM baru selanjutnya akan mengajukan surat pengajuan rekrutmen pegawai kepada HR untuk kemudian diproses oleh bagian HR
+3. bagian HR lalu menentukan apakah proses rekrutmen dibutuhkan atau tidak; tahap ini bisa dilakukan dengan meminta persetujuan dari petinggi perusahaan apabila diperlukan
+4. setelah disetujui~ bagian HR akan menganalisis pekerjaan untuk mendefinisikan jabatan yang dibutuhkan~ termasuk di dalamnya keterampilan dan pengetahuan yang dibutuhkan~ serta tanggung jawab untuk menyelesaikan tugas di perusahaan
+5. setelah melalui proses analisis pekerjaan~ HR dapat menguraikan deskripsi jabatan dan kualifikasi yang diperlukan
+6. setelah itu~ bagian HR akan menentukan metode rekrutmen yang paling sesuai dengan mempertimbangkan kondisi perusahaan. metode yang dimaksud dapat berupa internal recruitment atau external recruitment
+7. setelah ditentukan~ barulah bagian HR bisa mulai memasarkan iklan lowongan (dapat melalui job portal~ sosial media~ atau media yang lainnya)
+8. berkas lamaran yang masuk ke perusahaan akan dilanjutkan ke proses screening dan seleksi~ dimana rekruter atau bagian HR memisahkan antara berkas kandidat yang memenuhi kriteria awal yang dibutuhkan atau tidak
+9. kandidat yang dinyatakan lolos tahap administrasi kemudian akan dihubungi oleh rekruter untuk menghadiri sesi wawancara/psikotes dengan HR
+10. setelah mendapatkan hasil dari sesi wawancara/psikotes~ kandidat yang dianggap lolos untuk tahap selanjutnya akan dijadwalkan untuk mengikuti tes selanjutnya bersama user
+11. jika kandidat diterima pada posisi tersebut~ maka rekruter dan user akan berdiskusi terkait gaji yang akan ditawarkan beserta benefitnya.
+12. kandidat yang setuju dengan penawaran dari HR dan user selanjutnya akan melakukan proses onboarding~ yaitu penyambutan karyawan baru. bagian HR akan memperkenalkan perusahaan secara lebih dalam (visi~ misi~ tujuan~ budaya~ dll)~ selain itu juga bisa dilakukan dengan user terkait sebagai bentuk persiapan awal kerja dan penjabaran jobdesc yang akan dikerjakan karyawan dalam beberapa waktu kedepan
